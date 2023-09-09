@@ -1,15 +1,17 @@
 > ## TPI => LABORATORIO DE COMPUTACIÓN - Tup 2023.
 
-##### Herramienta de Cálculo Exacto de Material (Hormigón).
+#### Herramienta de Cálculo Exacto de Material (Hormigón).
+
+##### El proyecto constará en la implementación de un sistema que brindará en una mayor eficiencia y precisión en el proceso de cálculo de hormigón exacto.
 
 ### Requisitos del Sistema:
 
-1. Recibir Dimensiones: Necesitamos una forma de ingresar las dimensiones de la superficie donde se usará el hormigón. Esto podría ser en metros, pies, o cualquier unidad que el cliente prefiera.
-2. Calcular Cantidad de Hormigón: Debemos hacer un cálculo preciso de los metros cúbicos de hormigón requeridos, considerando diferentes factores. 
-3. Presentación de Resultados: Los resultados deben mostrarse de manera clara para que los clientes puedan entender cuánto hormigón necesitan y otros detalles importantes.
-4. Interfaz Amigable: La herramienta debe ser fácil de usar, con una interfaz intuitiva que guíe a los clientes a través del proceso.
-5. Registro de Pedidos: Deberemos llevar un registro de los pedidos de los clientes en un archivo de control para que la empresa pueda ver quién pidió cuántos metros de hormigón.
-6. Documento Impreso: También debemos proporcionar un archivo que se pueda imprimir y entregar al cliente, con todos los datos y el cálculo realizado.
+1. Ingreso de Dimensiones: El sistema debe permitir a los clientes proporcionar las dimensiones de la superficie que será rellenada con hormigón. Esto puede realizarse mediante diversas unidades de medida, adaptándose así a las preferencias de los usuarios.
+2. Cálculo: La herramienta debe ser capaz de realizar cálculos precisos en función de las dimensiones proporcionadas y otros factores relevantes. Esto garantiza que la cantidad de hormigón requerida sea lo más exacta posible.
+3. Presentación de Resultados: Los resultados deben ser presentados de manera clara y comprensible para que los clientes puedan entender fácilmente la cantidad de hormigón necesaria y otros detalles esenciales relacionados con su pedido.
+4. Interfaz: Se requiere una interfaz intuitiva (siempre de consola) que guíe a los clientes durante el proceso de ingreso de datos y obtención de resultados.
+5. Registro de Pedidos: Es esencial mantener un archivo de control que registre los pedidos de los clientes, incluyendo sus datos y la cantidad de metros cúbicos de hormigón solicitados.
+6. Documento Impreso: Además de la visualización por consola, el sistema debe permitir la generación de un archivo imprimible que contenga todos los detalles del pedido, cálculos realizados y la cantidad total de hormigón que será entregada al cliente.
 
 ### Tecnologia implementada:
 
