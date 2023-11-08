@@ -1,0 +1,14 @@
+
+---INFORMACIÓN DE PEDIDO---
+
+Cliente: pedro juan carlos titanfit
+*Superficie solicitada:
+	1-Longitud: 21.0
+	2-Ancho: 432.0
+	3-Altura: 32.0
+*Material
+	1-Cantidad solicitada: 290304.0m³
+	2-Peso: "Sin densidad definida"
+*Datos sobre el material:
+	1-Densidad utilizada: N/A
+	2-Margen de desperdicio: N/A
